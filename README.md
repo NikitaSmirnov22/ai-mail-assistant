@@ -6,10 +6,14 @@
 **Smart AI Searches:** Powered by GPT-4, get precise answers and insights, tailored to your email and search needs.
 **Customizable Responses:** OpenAI function-driven agent for response customization based on user-defined instructions.
 Streamlit Interface: Clean and intuitive UI, making interaction seamless and efficient.
+
+
 **🚧 Cons**
 **API Costs:** Usage of OpenAI and Gmail APIs may incur fees; rate limits may apply for extensive usage.
 **Environment Dependencies:** Requires credentials.json for Gmail access, so correct setup is essential.
 **Human Intervention:** Occasionally, complex requests might require manual follow-up.
+
+
 **🚀 Getting Started**
 **API Key:** Enter your OpenAI API key when prompted.
 **Gmail Credentials:** Place your credentials.json file in the project directory for Gmail API access.
