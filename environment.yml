@@ -1,0 +1,11 @@
+name: venture_search
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - streamlit
+      - langchain
+      - openai
+      - requests
+      - python-dotenv
+
